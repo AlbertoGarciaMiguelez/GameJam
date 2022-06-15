@@ -1,0 +1,2559 @@
+fileFormatVersion: 2
+guid: 23e505f9f95c45140817508dc66016ed
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 6049863757849427108
+    second: Tronco_Palmera.004|flower10Action
+  - first:
+      74: 9153157178980363756
+    second: Tronco_Palmera.004|flower11Action
+  - first:
+      74: -6404750987801687023
+    second: Tronco_Palmera.004|flower4Action
+  - first:
+      74: -6413765436318792200
+    second: Tronco_Palmera.004|grass 17Action
+  - first:
+      74: -8154965624384434212
+    second: Tronco_Palmera.004|grass 17Action.022
+  - first:
+      74: 7413360377181570076
+    second: Tronco_Palmera.004|grass 17Action.023
+  - first:
+      74: 320112654312508128
+    second: Tronco_Palmera.004|grass 17Action.024
+  - first:
+      74: -5628124731352793970
+    second: Tronco_Palmera.004|grass 17Action.025
+  - first:
+      74: 4971566940995963096
+    second: Tronco_Palmera.004|grass 17Action.026
+  - first:
+      74: -2769857571651677206
+    second: Tronco_Palmera.004|grass 17Action.027
+  - first:
+      74: 1870848475825988923
+    second: Tronco_Palmera.004|grass 17Action.028
+  - first:
+      74: 456545446277582810
+    second: Tronco_Palmera.004|grass 17Action.029
+  - first:
+      74: 2211323596336691313
+    second: Tronco_Palmera.004|grass 17Action.030
+  - first:
+      74: 4647282740163608581
+    second: Tronco_Palmera.004|grass 17Action.031
+  - first:
+      74: -6164457160497727582
+    second: Tronco_Palmera.004|grass 17Action.032
+  - first:
+      74: -7797551217184527335
+    second: Tronco_Palmera.004|grass 17Action.033
+  - first:
+      74: 4396890345462673475
+    second: Tronco_Palmera.004|grass 17Action.034
+  - first:
+      74: -684265330807581436
+    second: Tronco_Palmera.004|grass 17Action.035
+  - first:
+      74: 5760922336427013099
+    second: Tronco_Palmera.004|grass 17Action.036
+  - first:
+      74: 931548190504840080
+    second: Tronco_Palmera.004|grass 17Action.037
+  - first:
+      74: 5257440542219102284
+    second: Tronco_Palmera.004|grass 17Action.038
+  - first:
+      74: 88778558218360331
+    second: Tronco_Palmera.004|grass 17Action.039
+  - first:
+      74: 2505929341818271637
+    second: Tronco_Palmera.004|grass 17Action.040
+  - first:
+      74: -3013375902362212789
+    second: Tronco_Palmera.004|grass 17Action.041
+  - first:
+      74: -2024469253320814412
+    second: Tronco_Palmera.004|grass 17Action.042
+  - first:
+      74: -3446745058858026661
+    second: Tronco_Palmera.004|grass 17Action.043
+  - first:
+      74: 1300548951199531284
+    second: Tronco_Palmera.004|grass 17Action.044
+  - first:
+      74: -8587011650851618393
+    second: Tronco_Palmera.004|grass 17Action.045
+  - first:
+      74: -3467962732643985851
+    second: Tronco_Palmera.004|grass 17Action.046
+  - first:
+      74: 7359834058840133105
+    second: Tronco_Palmera.004|grass 17Action.047
+  - first:
+      74: 8716627505360842294
+    second: Tronco_Palmera.004|grass 17Action.048
+  - first:
+      74: 7979867029196680943
+    second: Tronco_Palmera.004|grass 17Action.049
+  - first:
+      74: -9133428206100500118
+    second: Tronco_Palmera.004|grass 17Action.050
+  - first:
+      74: 2848287092608805069
+    second: Tronco_Palmera.004|grass 17Action.051
+  - first:
+      74: -6641471487693910628
+    second: Tronco_Palmera.004|grass 17Action.052
+  - first:
+      74: 1413973926489529242
+    second: Tronco_Palmera.004|grass 17Action.053
+  - first:
+      74: 637719055756243555
+    second: Tronco_Palmera.004|grass 17Action.054
+  - first:
+      74: 6896474064359900891
+    second: Tronco_Palmera.004|grass 17Action.055
+  - first:
+      74: 5467190215048055998
+    second: Tronco_Palmera.004|grass 17Action.056
+  - first:
+      74: -1854890794179148231
+    second: Tronco_Palmera.004|grass 17Action.057
+  - first:
+      74: 3432079905265677034
+    second: Tronco_Palmera.004|grass 17Action.058
+  - first:
+      74: -4397527086964465282
+    second: Tronco_Palmera.004|grass 17Action.059
+  - first:
+      74: 2760602369413783675
+    second: Tronco_Palmera.004|grass 17Action.060
+  - first:
+      74: -7421317888912069486
+    second: Tronco_Palmera.004|grass 17Action.061
+  - first:
+      74: 5274582105631885452
+    second: Tronco_Palmera.004|grass 17Action.062
+  - first:
+      74: 3345883147850057053
+    second: Tronco_Palmera.004|grass 17Action.063
+  - first:
+      74: -8087335678392651496
+    second: Tronco_Palmera.004|grass 17Action.064
+  - first:
+      74: 5524160680565742282
+    second: Tronco_Palmera.004|grass 17Action.065
+  - first:
+      74: -3189546946538721280
+    second: Tronco_Palmera.004|grass 17Action.066
+  - first:
+      74: -9061879255858050982
+    second: Tronco_Palmera.004|grass 17Action.067
+  - first:
+      74: 7848279848036689250
+    second: Tronco_Palmera.004|grass 17Action.068
+  - first:
+      74: 2073562946639923193
+    second: Tronco_Palmera.004|grass 17Action.069
+  - first:
+      74: 5206823657936144223
+    second: Tronco_Palmera.004|grass 17Action.070
+  - first:
+      74: -7014974398225308529
+    second: Tronco_Palmera.004|grass 17Action.071
+  - first:
+      74: 1030069406535589592
+    second: Tronco_Palmera.004|grass 17Action.072
+  - first:
+      74: 7088194117437255528
+    second: Tronco_Palmera.004|grass 17Action.073
+  - first:
+      74: 902872470984538808
+    second: Tronco_Palmera.004|grass 17Action.074
+  - first:
+      74: -52235068539362926
+    second: Tronco_Palmera.004|grass 17Action.075
+  - first:
+      74: -2938439006119303822
+    second: Tronco_Palmera.004|grass 17Action.076
+  - first:
+      74: -8141447325440697540
+    second: Tronco_Palmera.004|grass 17Action.077
+  - first:
+      74: 1627551971538994956
+    second: Tronco_Palmera.004|grass 17Action.078
+  - first:
+      74: -8645169989195258441
+    second: Tronco_Palmera.004|grass 17Action.079
+  - first:
+      74: -653986565914351046
+    second: Tronco_Palmera.004|grass 17Action.080
+  - first:
+      74: -6602710723848313787
+    second: Tronco_Palmera.004|grass 17Action.081
+  - first:
+      74: 6371100425119478518
+    second: Tronco_Palmera.004|grass 17Action.082
+  - first:
+      74: -738331257609998801
+    second: Tronco_Palmera.004|grass 17Action.083
+  - first:
+      74: -3197972132363679354
+    second: Tronco_Palmera.004|grass 17Action.084
+  - first:
+      74: -6777300618820725794
+    second: Tronco_Palmera.004|grass 17Action.085
+  - first:
+      74: 2111125564767316626
+    second: Tronco_Palmera.004|grass 17Action.086
+  - first:
+      74: -7361473767149140794
+    second: Tronco_Palmera.004|grass 17Action.087
+  - first:
+      74: -2890557609441716795
+    second: Tronco_Palmera.004|grass 17Action.088
+  - first:
+      74: 430341672985018622
+    second: Tronco_Palmera.004|grass 17Action.089
+  - first:
+      74: -3376847478038902776
+    second: Tronco_Palmera.004|grass 17Action.090
+  - first:
+      74: 2253799644535839654
+    second: Tronco_Palmera.004|grass 17Action.091
+  - first:
+      74: -9043950973276631687
+    second: Tronco_Palmera.004|grass 17Action.092
+  - first:
+      74: 8357980391324913116
+    second: Tronco_Palmera.004|grass 17Action.093
+  - first:
+      74: 3009414045021627421
+    second: Tronco_Palmera.004|grass 17Action.094
+  - first:
+      74: 69551280103329767
+    second: Tronco_Palmera.004|grass 17Action.095
+  - first:
+      74: -315682857141666903
+    second: Tronco_Palmera.004|Tronco_PalmeraAction
+  - first:
+      74: 1051725836381130174
+    second: Tronco_Palmera.004|Tronco_PalmeraAction.001
+  - first:
+      74: -303350390262661238
+    second: Tronco_Palmera.004|Tronco_PalmeraAction.002
+  - first:
+      74: -2736035421082624703
+    second: Tronco_Palmera.004|Tronco_PalmeraAction.003
+  - first:
+      74: -4506783455788531951
+    second: Tronco_Palmera.004|Tronco_PalmeraAction.004
+  - first:
+      74: 4906378929360278747
+    second: Tronco_Palmera.004|Tronco_PalmeraAction.005
+  - first:
+      74: 7129926180627847491
+    second: Tronco_Palmera.004|Tronco_PalmeraAction.006
+  - first:
+      74: -9039166954263623170
+    second: Tronco_Palmera.004|Tronco_PalmeraAction.007
+  - first:
+      74: -1514521419189656668
+    second: Tronco_Palmera.004|Tronco_PalmeraAction.008
+  - first:
+      74: 1484533899149751424
+    second: Tronco_Palmera.004|Tronco_PalmeraAction.009
+  - first:
+      74: 3138645686324967638
+    second: Tronco_Palmera.004|Tronco_PalmeraAction.010
+  - first:
+      74: -2964906485248208619
+    second: Tronco_Palmera.004|Tronco_PalmeraAction.011
+  - first:
+      74: 5216282937649493287
+    second: Tronco_Palmera.004|Tronco_PalmeraAction.012
+  - first:
+      74: 2055644691517497468
+    second: Tronco_Palmera.005|flower10Action
+  - first:
+      74: -4378495351423230744
+    second: Tronco_Palmera.005|flower11Action
+  - first:
+      74: 1042875856962500906
+    second: Tronco_Palmera.005|flower4Action
+  - first:
+      74: 3245448506417849895
+    second: Tronco_Palmera.005|grass 17Action
+  - first:
+      74: -8851247702491862272
+    second: Tronco_Palmera.005|grass 17Action.022
+  - first:
+      74: 6209895725625023158
+    second: Tronco_Palmera.005|grass 17Action.023
+  - first:
+      74: -4716794710970900147
+    second: Tronco_Palmera.005|grass 17Action.024
+  - first:
+      74: 4651688249755903835
+    second: Tronco_Palmera.005|grass 17Action.025
+  - first:
+      74: 8202588498298628383
+    second: Tronco_Palmera.005|grass 17Action.026
+  - first:
+      74: -8736175371261322406
+    second: Tronco_Palmera.005|grass 17Action.027
+  - first:
+      74: 8649967134750164929
+    second: Tronco_Palmera.005|grass 17Action.028
+  - first:
+      74: 711414165394249642
+    second: Tronco_Palmera.005|grass 17Action.029
+  - first:
+      74: 2587749392074105627
+    second: Tronco_Palmera.005|grass 17Action.030
+  - first:
+      74: 8076024763167588300
+    second: Tronco_Palmera.005|grass 17Action.031
+  - first:
+      74: 418063009225077510
+    second: Tronco_Palmera.005|grass 17Action.032
+  - first:
+      74: 8781510203346520532
+    second: Tronco_Palmera.005|grass 17Action.033
+  - first:
+      74: -4405975877189165932
+    second: Tronco_Palmera.005|grass 17Action.034
+  - first:
+      74: -2504132438644645383
+    second: Tronco_Palmera.005|grass 17Action.035
+  - first:
+      74: 6065534045791882131
+    second: Tronco_Palmera.005|grass 17Action.036
+  - first:
+      74: 55731945226110822
+    second: Tronco_Palmera.005|grass 17Action.037
+  - first:
+      74: -1714765255778046547
+    second: Tronco_Palmera.005|grass 17Action.038
+  - first:
+      74: 3414243376632041338
+    second: Tronco_Palmera.005|grass 17Action.039
+  - first:
+      74: 8140726684351328670
+    second: Tronco_Palmera.005|grass 17Action.040
+  - first:
+      74: 100755153669234165
+    second: Tronco_Palmera.005|grass 17Action.041
+  - first:
+      74: 3537903638130473330
+    second: Tronco_Palmera.005|grass 17Action.042
+  - first:
+      74: 1027957358467086199
+    second: Tronco_Palmera.005|grass 17Action.043
+  - first:
+      74: -243076204640931537
+    second: Tronco_Palmera.005|grass 17Action.044
+  - first:
+      74: -233075471918899689
+    second: Tronco_Palmera.005|grass 17Action.045
+  - first:
+      74: -8453280608530611907
+    second: Tronco_Palmera.005|grass 17Action.046
+  - first:
+      74: -8663159728258374149
+    second: Tronco_Palmera.005|grass 17Action.047
+  - first:
+      74: 5592111773706772048
+    second: Tronco_Palmera.005|grass 17Action.048
+  - first:
+      74: 3260505205684442402
+    second: Tronco_Palmera.005|grass 17Action.049
+  - first:
+      74: -6763258486957963017
+    second: Tronco_Palmera.005|grass 17Action.050
+  - first:
+      74: -8250243200105220983
+    second: Tronco_Palmera.005|grass 17Action.051
+  - first:
+      74: -2093873625249169846
+    second: Tronco_Palmera.005|grass 17Action.052
+  - first:
+      74: 2195846634350087326
+    second: Tronco_Palmera.005|grass 17Action.053
+  - first:
+      74: 5223226409455362095
+    second: Tronco_Palmera.005|grass 17Action.054
+  - first:
+      74: -6932730416342006785
+    second: Tronco_Palmera.005|grass 17Action.055
+  - first:
+      74: -7913911187457430993
+    second: Tronco_Palmera.005|grass 17Action.056
+  - first:
+      74: 3764130173774042365
+    second: Tronco_Palmera.005|grass 17Action.057
+  - first:
+      74: -1521785538189796689
+    second: Tronco_Palmera.005|grass 17Action.058
+  - first:
+      74: 5440468813571564644
+    second: Tronco_Palmera.005|grass 17Action.059
+  - first:
+      74: -1921648969385504990
+    second: Tronco_Palmera.005|grass 17Action.060
+  - first:
+      74: 750188300550628116
+    second: Tronco_Palmera.005|grass 17Action.061
+  - first:
+      74: -5213161433319295403
+    second: Tronco_Palmera.005|grass 17Action.062
+  - first:
+      74: 8663117678053116070
+    second: Tronco_Palmera.005|grass 17Action.063
+  - first:
+      74: -3298346989968563840
+    second: Tronco_Palmera.005|grass 17Action.064
+  - first:
+      74: 7879533498441832477
+    second: Tronco_Palmera.005|grass 17Action.065
+  - first:
+      74: -599205348158568522
+    second: Tronco_Palmera.005|grass 17Action.066
+  - first:
+      74: 3909272416477725362
+    second: Tronco_Palmera.005|grass 17Action.067
+  - first:
+      74: -8473454215213973118
+    second: Tronco_Palmera.005|grass 17Action.068
+  - first:
+      74: -106044237238060155
+    second: Tronco_Palmera.005|grass 17Action.069
+  - first:
+      74: 1094904656185170417
+    second: Tronco_Palmera.005|grass 17Action.070
+  - first:
+      74: 444585610779648244
+    second: Tronco_Palmera.005|grass 17Action.071
+  - first:
+      74: 5164402344378598734
+    second: Tronco_Palmera.005|grass 17Action.072
+  - first:
+      74: -8254807067411913312
+    second: Tronco_Palmera.005|grass 17Action.073
+  - first:
+      74: 8531431444678660000
+    second: Tronco_Palmera.005|grass 17Action.074
+  - first:
+      74: -451157099867018274
+    second: Tronco_Palmera.005|grass 17Action.075
+  - first:
+      74: -2901348978476336594
+    second: Tronco_Palmera.005|grass 17Action.076
+  - first:
+      74: -7163439012731576315
+    second: Tronco_Palmera.005|grass 17Action.077
+  - first:
+      74: -3757368747267390075
+    second: Tronco_Palmera.005|grass 17Action.078
+  - first:
+      74: 4303454146735819205
+    second: Tronco_Palmera.005|grass 17Action.079
+  - first:
+      74: -3593049322775273181
+    second: Tronco_Palmera.005|grass 17Action.080
+  - first:
+      74: -3415172419413980581
+    second: Tronco_Palmera.005|grass 17Action.081
+  - first:
+      74: 1979100481318219582
+    second: Tronco_Palmera.005|grass 17Action.082
+  - first:
+      74: 6051660282623957797
+    second: Tronco_Palmera.005|grass 17Action.083
+  - first:
+      74: -7005833776103560123
+    second: Tronco_Palmera.005|grass 17Action.084
+  - first:
+      74: -880916428578506309
+    second: Tronco_Palmera.005|grass 17Action.085
+  - first:
+      74: -4023074431815912705
+    second: Tronco_Palmera.005|grass 17Action.086
+  - first:
+      74: -4810595617021180321
+    second: Tronco_Palmera.005|grass 17Action.087
+  - first:
+      74: 8328894818862106404
+    second: Tronco_Palmera.005|grass 17Action.088
+  - first:
+      74: -3790160852838553422
+    second: Tronco_Palmera.005|grass 17Action.089
+  - first:
+      74: -2714040561290234885
+    second: Tronco_Palmera.005|grass 17Action.090
+  - first:
+      74: 1528757974586200653
+    second: Tronco_Palmera.005|grass 17Action.091
+  - first:
+      74: -5674431551472454293
+    second: Tronco_Palmera.005|grass 17Action.092
+  - first:
+      74: -2375955870181727226
+    second: Tronco_Palmera.005|grass 17Action.093
+  - first:
+      74: 3548829209836388592
+    second: Tronco_Palmera.005|grass 17Action.094
+  - first:
+      74: -3731732937602202137
+    second: Tronco_Palmera.005|grass 17Action.095
+  - first:
+      74: -6075236925720433488
+    second: Tronco_Palmera.005|Tronco_PalmeraAction
+  - first:
+      74: -9131974742666498503
+    second: Tronco_Palmera.005|Tronco_PalmeraAction.001
+  - first:
+      74: 8035851656599866985
+    second: Tronco_Palmera.005|Tronco_PalmeraAction.002
+  - first:
+      74: 7607316644039724910
+    second: Tronco_Palmera.005|Tronco_PalmeraAction.003
+  - first:
+      74: -4985625520970905949
+    second: Tronco_Palmera.005|Tronco_PalmeraAction.004
+  - first:
+      74: 2871684670503275860
+    second: Tronco_Palmera.005|Tronco_PalmeraAction.005
+  - first:
+      74: 5665300588646782623
+    second: Tronco_Palmera.005|Tronco_PalmeraAction.006
+  - first:
+      74: -4274092417686647659
+    second: Tronco_Palmera.005|Tronco_PalmeraAction.007
+  - first:
+      74: 293082524073458764
+    second: Tronco_Palmera.005|Tronco_PalmeraAction.008
+  - first:
+      74: -1897019972490657629
+    second: Tronco_Palmera.005|Tronco_PalmeraAction.009
+  - first:
+      74: 1268158482315501379
+    second: Tronco_Palmera.005|Tronco_PalmeraAction.010
+  - first:
+      74: 1138818317026822863
+    second: Tronco_Palmera.005|Tronco_PalmeraAction.011
+  - first:
+      74: 8332736737599449148
+    second: Tronco_Palmera.005|Tronco_PalmeraAction.012
+  - first:
+      74: 6441900110288458802
+    second: Tronco_Palmera.006|flower10Action
+  - first:
+      74: 877736405150613077
+    second: Tronco_Palmera.006|flower11Action
+  - first:
+      74: -1440311596636612226
+    second: Tronco_Palmera.006|flower4Action
+  - first:
+      74: 9070150120405821103
+    second: Tronco_Palmera.006|grass 17Action
+  - first:
+      74: -7462224526795651692
+    second: Tronco_Palmera.006|grass 17Action.022
+  - first:
+      74: -386128734855498226
+    second: Tronco_Palmera.006|grass 17Action.023
+  - first:
+      74: 1963650443519744848
+    second: Tronco_Palmera.006|grass 17Action.024
+  - first:
+      74: -1809321678746449456
+    second: Tronco_Palmera.006|grass 17Action.025
+  - first:
+      74: -5408191786585120717
+    second: Tronco_Palmera.006|grass 17Action.026
+  - first:
+      74: -1918482528531527819
+    second: Tronco_Palmera.006|grass 17Action.027
+  - first:
+      74: 7646756618620940698
+    second: Tronco_Palmera.006|grass 17Action.028
+  - first:
+      74: -2104522327205889843
+    second: Tronco_Palmera.006|grass 17Action.029
+  - first:
+      74: -2121224015558074380
+    second: Tronco_Palmera.006|grass 17Action.030
+  - first:
+      74: 3450741558084852212
+    second: Tronco_Palmera.006|grass 17Action.031
+  - first:
+      74: 587811733349213405
+    second: Tronco_Palmera.006|grass 17Action.032
+  - first:
+      74: 4958193085611569833
+    second: Tronco_Palmera.006|grass 17Action.033
+  - first:
+      74: 8732220075312692877
+    second: Tronco_Palmera.006|grass 17Action.034
+  - first:
+      74: 8176552570155663714
+    second: Tronco_Palmera.006|grass 17Action.035
+  - first:
+      74: -4277007695208642579
+    second: Tronco_Palmera.006|grass 17Action.036
+  - first:
+      74: -3450645108885839278
+    second: Tronco_Palmera.006|grass 17Action.037
+  - first:
+      74: 4229949284366018905
+    second: Tronco_Palmera.006|grass 17Action.038
+  - first:
+      74: -6225450965965888624
+    second: Tronco_Palmera.006|grass 17Action.039
+  - first:
+      74: 8742882218050271519
+    second: Tronco_Palmera.006|grass 17Action.040
+  - first:
+      74: 9106733317082994039
+    second: Tronco_Palmera.006|grass 17Action.041
+  - first:
+      74: 3931627848196691095
+    second: Tronco_Palmera.006|grass 17Action.042
+  - first:
+      74: -9160623358107513904
+    second: Tronco_Palmera.006|grass 17Action.043
+  - first:
+      74: 2687263541091081847
+    second: Tronco_Palmera.006|grass 17Action.044
+  - first:
+      74: 7735814012682689129
+    second: Tronco_Palmera.006|grass 17Action.045
+  - first:
+      74: 3741868829307262
+    second: Tronco_Palmera.006|grass 17Action.046
+  - first:
+      74: 1531055849740484135
+    second: Tronco_Palmera.006|grass 17Action.047
+  - first:
+      74: 4014390696390763813
+    second: Tronco_Palmera.006|grass 17Action.048
+  - first:
+      74: -8600760748504180313
+    second: Tronco_Palmera.006|grass 17Action.049
+  - first:
+      74: -3876621138152352679
+    second: Tronco_Palmera.006|grass 17Action.050
+  - first:
+      74: 985624611523725755
+    second: Tronco_Palmera.006|grass 17Action.051
+  - first:
+      74: -524931113087182298
+    second: Tronco_Palmera.006|grass 17Action.052
+  - first:
+      74: 9006700145437360263
+    second: Tronco_Palmera.006|grass 17Action.053
+  - first:
+      74: 3543619912432364626
+    second: Tronco_Palmera.006|grass 17Action.054
+  - first:
+      74: 1557969890443424071
+    second: Tronco_Palmera.006|grass 17Action.055
+  - first:
+      74: -2084085975145275636
+    second: Tronco_Palmera.006|grass 17Action.056
+  - first:
+      74: 3783474281598460908
+    second: Tronco_Palmera.006|grass 17Action.057
+  - first:
+      74: -7565615208534619006
+    second: Tronco_Palmera.006|grass 17Action.058
+  - first:
+      74: -350736571983006514
+    second: Tronco_Palmera.006|grass 17Action.059
+  - first:
+      74: 3796737815414676807
+    second: Tronco_Palmera.006|grass 17Action.060
+  - first:
+      74: 6814795822450111568
+    second: Tronco_Palmera.006|grass 17Action.061
+  - first:
+      74: 2134800139405203602
+    second: Tronco_Palmera.006|grass 17Action.062
+  - first:
+      74: 7253437282400659984
+    second: Tronco_Palmera.006|grass 17Action.063
+  - first:
+      74: -1269314129215426354
+    second: Tronco_Palmera.006|grass 17Action.064
+  - first:
+      74: 8337655470687921574
+    second: Tronco_Palmera.006|grass 17Action.065
+  - first:
+      74: 8585532157008887191
+    second: Tronco_Palmera.006|grass 17Action.066
+  - first:
+      74: -8497809012022310666
+    second: Tronco_Palmera.006|grass 17Action.067
+  - first:
+      74: -6940644927287309635
+    second: Tronco_Palmera.006|grass 17Action.068
+  - first:
+      74: -1007225069974336767
+    second: Tronco_Palmera.006|grass 17Action.069
+  - first:
+      74: -1501684353307390103
+    second: Tronco_Palmera.006|grass 17Action.070
+  - first:
+      74: 6346522475353341619
+    second: Tronco_Palmera.006|grass 17Action.071
+  - first:
+      74: -8710732474302790657
+    second: Tronco_Palmera.006|grass 17Action.072
+  - first:
+      74: -3474819420230766210
+    second: Tronco_Palmera.006|grass 17Action.073
+  - first:
+      74: -1816725264589630816
+    second: Tronco_Palmera.006|grass 17Action.074
+  - first:
+      74: 1244956674693603299
+    second: Tronco_Palmera.006|grass 17Action.075
+  - first:
+      74: -6949146475330578792
+    second: Tronco_Palmera.006|grass 17Action.076
+  - first:
+      74: -3950013934139145052
+    second: Tronco_Palmera.006|grass 17Action.077
+  - first:
+      74: -3074865403408278383
+    second: Tronco_Palmera.006|grass 17Action.078
+  - first:
+      74: 4226723630729438291
+    second: Tronco_Palmera.006|grass 17Action.079
+  - first:
+      74: -9214590148926955050
+    second: Tronco_Palmera.006|grass 17Action.080
+  - first:
+      74: -7736073169537968711
+    second: Tronco_Palmera.006|grass 17Action.081
+  - first:
+      74: 7930721420710895171
+    second: Tronco_Palmera.006|grass 17Action.082
+  - first:
+      74: -6346929305445743138
+    second: Tronco_Palmera.006|grass 17Action.083
+  - first:
+      74: -367641056041841415
+    second: Tronco_Palmera.006|grass 17Action.084
+  - first:
+      74: 5912105203686382550
+    second: Tronco_Palmera.006|grass 17Action.085
+  - first:
+      74: 7699622460275943789
+    second: Tronco_Palmera.006|grass 17Action.086
+  - first:
+      74: -3913542457303287503
+    second: Tronco_Palmera.006|grass 17Action.087
+  - first:
+      74: 8854996902787069673
+    second: Tronco_Palmera.006|grass 17Action.088
+  - first:
+      74: -479679185051099079
+    second: Tronco_Palmera.006|grass 17Action.089
+  - first:
+      74: 1953800144095371287
+    second: Tronco_Palmera.006|grass 17Action.090
+  - first:
+      74: 2595845666308595042
+    second: Tronco_Palmera.006|grass 17Action.091
+  - first:
+      74: 117810557117370839
+    second: Tronco_Palmera.006|grass 17Action.092
+  - first:
+      74: 2643551532458558073
+    second: Tronco_Palmera.006|grass 17Action.093
+  - first:
+      74: 6207331090065445297
+    second: Tronco_Palmera.006|grass 17Action.094
+  - first:
+      74: 7863588076744083995
+    second: Tronco_Palmera.006|grass 17Action.095
+  - first:
+      74: 96769135190714722
+    second: Tronco_Palmera.006|Tronco_PalmeraAction
+  - first:
+      74: 5576200230160069716
+    second: Tronco_Palmera.006|Tronco_PalmeraAction.001
+  - first:
+      74: 4103399082419425001
+    second: Tronco_Palmera.006|Tronco_PalmeraAction.002
+  - first:
+      74: -6684232373433529753
+    second: Tronco_Palmera.006|Tronco_PalmeraAction.003
+  - first:
+      74: 7752092528455219782
+    second: Tronco_Palmera.006|Tronco_PalmeraAction.004
+  - first:
+      74: -9111104708150498579
+    second: Tronco_Palmera.006|Tronco_PalmeraAction.005
+  - first:
+      74: -5200700510317409811
+    second: Tronco_Palmera.006|Tronco_PalmeraAction.006
+  - first:
+      74: -6443121285026594613
+    second: Tronco_Palmera.006|Tronco_PalmeraAction.007
+  - first:
+      74: 2027605546532871909
+    second: Tronco_Palmera.006|Tronco_PalmeraAction.008
+  - first:
+      74: 4460708805174451397
+    second: Tronco_Palmera.006|Tronco_PalmeraAction.009
+  - first:
+      74: -4705335410890974592
+    second: Tronco_Palmera.006|Tronco_PalmeraAction.010
+  - first:
+      74: -759922689362235029
+    second: Tronco_Palmera.006|Tronco_PalmeraAction.011
+  - first:
+      74: -6859340597502694574
+    second: Tronco_Palmera.006|Tronco_PalmeraAction.012
+  - first:
+      74: -8255844040060267524
+    second: Tronco_Palmera.007|flower10Action
+  - first:
+      74: -7791979833955587714
+    second: Tronco_Palmera.007|flower11Action
+  - first:
+      74: 4961467936993892263
+    second: Tronco_Palmera.007|flower4Action
+  - first:
+      74: 7647483441568992363
+    second: Tronco_Palmera.007|grass 17Action
+  - first:
+      74: 4540315136914833577
+    second: Tronco_Palmera.007|grass 17Action.022
+  - first:
+      74: 4627605818332427047
+    second: Tronco_Palmera.007|grass 17Action.023
+  - first:
+      74: 8780884888963571732
+    second: Tronco_Palmera.007|grass 17Action.024
+  - first:
+      74: 8213690194146085075
+    second: Tronco_Palmera.007|grass 17Action.025
+  - first:
+      74: 5936692774982150987
+    second: Tronco_Palmera.007|grass 17Action.026
+  - first:
+      74: 4278046481921836768
+    second: Tronco_Palmera.007|grass 17Action.027
+  - first:
+      74: 1164437435457517063
+    second: Tronco_Palmera.007|grass 17Action.028
+  - first:
+      74: 3196347968932877449
+    second: Tronco_Palmera.007|grass 17Action.029
+  - first:
+      74: 894384025431412383
+    second: Tronco_Palmera.007|grass 17Action.030
+  - first:
+      74: -2468824064875510229
+    second: Tronco_Palmera.007|grass 17Action.031
+  - first:
+      74: -7208840785851648013
+    second: Tronco_Palmera.007|grass 17Action.032
+  - first:
+      74: -1763757324168359944
+    second: Tronco_Palmera.007|grass 17Action.033
+  - first:
+      74: -7684709704309560524
+    second: Tronco_Palmera.007|grass 17Action.034
+  - first:
+      74: 6903383913235459369
+    second: Tronco_Palmera.007|grass 17Action.035
+  - first:
+      74: -5678493206159616771
+    second: Tronco_Palmera.007|grass 17Action.036
+  - first:
+      74: -1953491539218898628
+    second: Tronco_Palmera.007|grass 17Action.037
+  - first:
+      74: 3841138961561819438
+    second: Tronco_Palmera.007|grass 17Action.038
+  - first:
+      74: -8371815636905145129
+    second: Tronco_Palmera.007|grass 17Action.039
+  - first:
+      74: 7840836052756978565
+    second: Tronco_Palmera.007|grass 17Action.040
+  - first:
+      74: 7899607257333586282
+    second: Tronco_Palmera.007|grass 17Action.041
+  - first:
+      74: -8360215843112046984
+    second: Tronco_Palmera.007|grass 17Action.042
+  - first:
+      74: 5724560078644695478
+    second: Tronco_Palmera.007|grass 17Action.043
+  - first:
+      74: 6204806968711190137
+    second: Tronco_Palmera.007|grass 17Action.044
+  - first:
+      74: 6324908011788007526
+    second: Tronco_Palmera.007|grass 17Action.045
+  - first:
+      74: -5638830554946901769
+    second: Tronco_Palmera.007|grass 17Action.046
+  - first:
+      74: 7047556612477517390
+    second: Tronco_Palmera.007|grass 17Action.047
+  - first:
+      74: -8711387212532625024
+    second: Tronco_Palmera.007|grass 17Action.048
+  - first:
+      74: -2125955305284645325
+    second: Tronco_Palmera.007|grass 17Action.049
+  - first:
+      74: 7838501959948048927
+    second: Tronco_Palmera.007|grass 17Action.050
+  - first:
+      74: -7898401843317218361
+    second: Tronco_Palmera.007|grass 17Action.051
+  - first:
+      74: 3866253187649898174
+    second: Tronco_Palmera.007|grass 17Action.052
+  - first:
+      74: 7090732900784252150
+    second: Tronco_Palmera.007|grass 17Action.053
+  - first:
+      74: -1771496461474684597
+    second: Tronco_Palmera.007|grass 17Action.054
+  - first:
+      74: -4962507731289059664
+    second: Tronco_Palmera.007|grass 17Action.055
+  - first:
+      74: -8017722191390842542
+    second: Tronco_Palmera.007|grass 17Action.056
+  - first:
+      74: 7069356865072461418
+    second: Tronco_Palmera.007|grass 17Action.057
+  - first:
+      74: -5203885376407305840
+    second: Tronco_Palmera.007|grass 17Action.058
+  - first:
+      74: -3137481296647353792
+    second: Tronco_Palmera.007|grass 17Action.059
+  - first:
+      74: -6228230108353881323
+    second: Tronco_Palmera.007|grass 17Action.060
+  - first:
+      74: 8204658051128355020
+    second: Tronco_Palmera.007|grass 17Action.061
+  - first:
+      74: 8509099938002547801
+    second: Tronco_Palmera.007|grass 17Action.062
+  - first:
+      74: 8670628476145385589
+    second: Tronco_Palmera.007|grass 17Action.063
+  - first:
+      74: 463390568898038686
+    second: Tronco_Palmera.007|grass 17Action.064
+  - first:
+      74: 9009871853494660239
+    second: Tronco_Palmera.007|grass 17Action.065
+  - first:
+      74: 157370408223625549
+    second: Tronco_Palmera.007|grass 17Action.066
+  - first:
+      74: -8493697240807866366
+    second: Tronco_Palmera.007|grass 17Action.067
+  - first:
+      74: 5889102691925652433
+    second: Tronco_Palmera.007|grass 17Action.068
+  - first:
+      74: -7772827376079485582
+    second: Tronco_Palmera.007|grass 17Action.069
+  - first:
+      74: 5603378057658221401
+    second: Tronco_Palmera.007|grass 17Action.070
+  - first:
+      74: -1443436550616509475
+    second: Tronco_Palmera.007|grass 17Action.071
+  - first:
+      74: -8553207362183851604
+    second: Tronco_Palmera.007|grass 17Action.072
+  - first:
+      74: 9218759615949164685
+    second: Tronco_Palmera.007|grass 17Action.073
+  - first:
+      74: 255305566068241589
+    second: Tronco_Palmera.007|grass 17Action.074
+  - first:
+      74: -6301912003569477323
+    second: Tronco_Palmera.007|grass 17Action.075
+  - first:
+      74: 1672363719475835973
+    second: Tronco_Palmera.007|grass 17Action.076
+  - first:
+      74: -6827465360244614325
+    second: Tronco_Palmera.007|grass 17Action.077
+  - first:
+      74: -4004811195044988794
+    second: Tronco_Palmera.007|grass 17Action.078
+  - first:
+      74: 3072720329284646250
+    second: Tronco_Palmera.007|grass 17Action.079
+  - first:
+      74: -3559090775103834445
+    second: Tronco_Palmera.007|grass 17Action.080
+  - first:
+      74: 218256153651207409
+    second: Tronco_Palmera.007|grass 17Action.081
+  - first:
+      74: 1705838456560065579
+    second: Tronco_Palmera.007|grass 17Action.082
+  - first:
+      74: -8563373071419760023
+    second: Tronco_Palmera.007|grass 17Action.083
+  - first:
+      74: -8350753790389667370
+    second: Tronco_Palmera.007|grass 17Action.084
+  - first:
+      74: -7979060288309572454
+    second: Tronco_Palmera.007|grass 17Action.085
+  - first:
+      74: 3621730919206495625
+    second: Tronco_Palmera.007|grass 17Action.086
+  - first:
+      74: 9215652752099552990
+    second: Tronco_Palmera.007|grass 17Action.087
+  - first:
+      74: -7735144755714599979
+    second: Tronco_Palmera.007|grass 17Action.088
+  - first:
+      74: 4351583660131771444
+    second: Tronco_Palmera.007|grass 17Action.089
+  - first:
+      74: 8113915370015836315
+    second: Tronco_Palmera.007|grass 17Action.090
+  - first:
+      74: -5606658223515582307
+    second: Tronco_Palmera.007|grass 17Action.091
+  - first:
+      74: -170344831567931247
+    second: Tronco_Palmera.007|grass 17Action.092
+  - first:
+      74: 858267657814872043
+    second: Tronco_Palmera.007|grass 17Action.093
+  - first:
+      74: 6205905023685434443
+    second: Tronco_Palmera.007|grass 17Action.094
+  - first:
+      74: 4947804445876852743
+    second: Tronco_Palmera.007|grass 17Action.095
+  - first:
+      74: 1815204710058505497
+    second: Tronco_Palmera.007|Tronco_PalmeraAction
+  - first:
+      74: -1838699766973532964
+    second: Tronco_Palmera.007|Tronco_PalmeraAction.001
+  - first:
+      74: 2841059728667714991
+    second: Tronco_Palmera.007|Tronco_PalmeraAction.002
+  - first:
+      74: -2640718539658001711
+    second: Tronco_Palmera.007|Tronco_PalmeraAction.003
+  - first:
+      74: -8644776229249665402
+    second: Tronco_Palmera.007|Tronco_PalmeraAction.004
+  - first:
+      74: -4973858329375553490
+    second: Tronco_Palmera.007|Tronco_PalmeraAction.005
+  - first:
+      74: -2301401107476364581
+    second: Tronco_Palmera.007|Tronco_PalmeraAction.006
+  - first:
+      74: 5780366209257391267
+    second: Tronco_Palmera.007|Tronco_PalmeraAction.007
+  - first:
+      74: 3100424250636415405
+    second: Tronco_Palmera.007|Tronco_PalmeraAction.008
+  - first:
+      74: 3754021450170816546
+    second: Tronco_Palmera.007|Tronco_PalmeraAction.009
+  - first:
+      74: 3157140373257409148
+    second: Tronco_Palmera.007|Tronco_PalmeraAction.010
+  - first:
+      74: -8008772501930779426
+    second: Tronco_Palmera.007|Tronco_PalmeraAction.011
+  - first:
+      74: 3173378918836725205
+    second: Tronco_Palmera.007|Tronco_PalmeraAction.012
+  - first:
+      74: -8764132528451344871
+    second: Tronco_Palmera.008|flower10Action
+  - first:
+      74: 5806741060585938351
+    second: Tronco_Palmera.008|flower11Action
+  - first:
+      74: -3665418288514251319
+    second: Tronco_Palmera.008|flower4Action
+  - first:
+      74: 7682975084271420015
+    second: Tronco_Palmera.008|grass 17Action
+  - first:
+      74: -5188584845092224844
+    second: Tronco_Palmera.008|grass 17Action.022
+  - first:
+      74: -6227697684252249028
+    second: Tronco_Palmera.008|grass 17Action.023
+  - first:
+      74: 1061167936029990119
+    second: Tronco_Palmera.008|grass 17Action.024
+  - first:
+      74: -1487217142259108834
+    second: Tronco_Palmera.008|grass 17Action.025
+  - first:
+      74: -5898598816405507551
+    second: Tronco_Palmera.008|grass 17Action.026
+  - first:
+      74: 2451924106510660710
+    second: Tronco_Palmera.008|grass 17Action.027
+  - first:
+      74: 4201222867631961624
+    second: Tronco_Palmera.008|grass 17Action.028
+  - first:
+      74: -6793888340214835614
+    second: Tronco_Palmera.008|grass 17Action.029
+  - first:
+      74: -6104067886340592886
+    second: Tronco_Palmera.008|grass 17Action.030
+  - first:
+      74: 1931462219573593962
+    second: Tronco_Palmera.008|grass 17Action.031
+  - first:
+      74: -2079047939255335924
+    second: Tronco_Palmera.008|grass 17Action.032
+  - first:
+      74: 7928719839805854616
+    second: Tronco_Palmera.008|grass 17Action.033
+  - first:
+      74: 1149457191975782529
+    second: Tronco_Palmera.008|grass 17Action.034
+  - first:
+      74: -1830917754729962605
+    second: Tronco_Palmera.008|grass 17Action.035
+  - first:
+      74: -4962749120793097192
+    second: Tronco_Palmera.008|grass 17Action.036
+  - first:
+      74: -5139483866834253998
+    second: Tronco_Palmera.008|grass 17Action.037
+  - first:
+      74: -4003980926001073278
+    second: Tronco_Palmera.008|grass 17Action.038
+  - first:
+      74: -2368714584412600363
+    second: Tronco_Palmera.008|grass 17Action.039
+  - first:
+      74: -4789232615959792644
+    second: Tronco_Palmera.008|grass 17Action.040
+  - first:
+      74: -3039175373976565334
+    second: Tronco_Palmera.008|grass 17Action.041
+  - first:
+      74: 8743555918958230901
+    second: Tronco_Palmera.008|grass 17Action.042
+  - first:
+      74: -6738132857152882037
+    second: Tronco_Palmera.008|grass 17Action.043
+  - first:
+      74: 6264882462636387435
+    second: Tronco_Palmera.008|grass 17Action.044
+  - first:
+      74: 7979010695029801305
+    second: Tronco_Palmera.008|grass 17Action.045
+  - first:
+      74: -2403753088107069145
+    second: Tronco_Palmera.008|grass 17Action.046
+  - first:
+      74: -8485062107284988074
+    second: Tronco_Palmera.008|grass 17Action.047
+  - first:
+      74: 5937492369448890906
+    second: Tronco_Palmera.008|grass 17Action.048
+  - first:
+      74: -5401952604054432264
+    second: Tronco_Palmera.008|grass 17Action.049
+  - first:
+      74: -5513033089355576022
+    second: Tronco_Palmera.008|grass 17Action.050
+  - first:
+      74: -1680251750901002821
+    second: Tronco_Palmera.008|grass 17Action.051
+  - first:
+      74: 2447285716230549153
+    second: Tronco_Palmera.008|grass 17Action.052
+  - first:
+      74: -3847387727416093583
+    second: Tronco_Palmera.008|grass 17Action.053
+  - first:
+      74: -4384663938860278795
+    second: Tronco_Palmera.008|grass 17Action.054
+  - first:
+      74: -7241799965910429448
+    second: Tronco_Palmera.008|grass 17Action.055
+  - first:
+      74: 7595244946331009911
+    second: Tronco_Palmera.008|grass 17Action.056
+  - first:
+      74: -436626307359015888
+    second: Tronco_Palmera.008|grass 17Action.057
+  - first:
+      74: -8114037186933981698
+    second: Tronco_Palmera.008|grass 17Action.058
+  - first:
+      74: -8089210852992392418
+    second: Tronco_Palmera.008|grass 17Action.059
+  - first:
+      74: 4754188543200820419
+    second: Tronco_Palmera.008|grass 17Action.060
+  - first:
+      74: 2964225491380404357
+    second: Tronco_Palmera.008|grass 17Action.061
+  - first:
+      74: 2887290400497789800
+    second: Tronco_Palmera.008|grass 17Action.062
+  - first:
+      74: -645802031592401651
+    second: Tronco_Palmera.008|grass 17Action.063
+  - first:
+      74: 5014075033591251079
+    second: Tronco_Palmera.008|grass 17Action.064
+  - first:
+      74: 8631683347954074532
+    second: Tronco_Palmera.008|grass 17Action.065
+  - first:
+      74: -3018582293401794870
+    second: Tronco_Palmera.008|grass 17Action.066
+  - first:
+      74: 5016083676516463058
+    second: Tronco_Palmera.008|grass 17Action.067
+  - first:
+      74: 5632102986643533170
+    second: Tronco_Palmera.008|grass 17Action.068
+  - first:
+      74: -2350722229088465754
+    second: Tronco_Palmera.008|grass 17Action.069
+  - first:
+      74: 7080336748735068456
+    second: Tronco_Palmera.008|grass 17Action.070
+  - first:
+      74: -3581005630494192442
+    second: Tronco_Palmera.008|grass 17Action.071
+  - first:
+      74: -2608368785689125425
+    second: Tronco_Palmera.008|grass 17Action.072
+  - first:
+      74: -4265664937330937510
+    second: Tronco_Palmera.008|grass 17Action.073
+  - first:
+      74: 3820305826225420207
+    second: Tronco_Palmera.008|grass 17Action.074
+  - first:
+      74: 8303223617992288132
+    second: Tronco_Palmera.008|grass 17Action.075
+  - first:
+      74: 4359357020244569181
+    second: Tronco_Palmera.008|grass 17Action.076
+  - first:
+      74: 7070594460145935929
+    second: Tronco_Palmera.008|grass 17Action.077
+  - first:
+      74: 7448293325256617218
+    second: Tronco_Palmera.008|grass 17Action.078
+  - first:
+      74: 6239652101203226890
+    second: Tronco_Palmera.008|grass 17Action.079
+  - first:
+      74: -3847060780863097316
+    second: Tronco_Palmera.008|grass 17Action.080
+  - first:
+      74: -1422110258397524171
+    second: Tronco_Palmera.008|grass 17Action.081
+  - first:
+      74: -1798596159045884409
+    second: Tronco_Palmera.008|grass 17Action.082
+  - first:
+      74: 7819991521215070957
+    second: Tronco_Palmera.008|grass 17Action.083
+  - first:
+      74: 5748691875419750471
+    second: Tronco_Palmera.008|grass 17Action.084
+  - first:
+      74: -1090029865099651756
+    second: Tronco_Palmera.008|grass 17Action.085
+  - first:
+      74: -1064094908696228403
+    second: Tronco_Palmera.008|grass 17Action.086
+  - first:
+      74: 3211575154339132179
+    second: Tronco_Palmera.008|grass 17Action.087
+  - first:
+      74: -8146377284252206030
+    second: Tronco_Palmera.008|grass 17Action.088
+  - first:
+      74: 4771392392550819006
+    second: Tronco_Palmera.008|grass 17Action.089
+  - first:
+      74: -2429665252781993038
+    second: Tronco_Palmera.008|grass 17Action.090
+  - first:
+      74: -4857787876355971258
+    second: Tronco_Palmera.008|grass 17Action.091
+  - first:
+      74: -6652082966907043508
+    second: Tronco_Palmera.008|grass 17Action.092
+  - first:
+      74: -896646245520655311
+    second: Tronco_Palmera.008|grass 17Action.093
+  - first:
+      74: 2846388837761093006
+    second: Tronco_Palmera.008|grass 17Action.094
+  - first:
+      74: 1655714405578236652
+    second: Tronco_Palmera.008|grass 17Action.095
+  - first:
+      74: -595839765121778769
+    second: Tronco_Palmera.008|Tronco_PalmeraAction
+  - first:
+      74: 2849443096827153718
+    second: Tronco_Palmera.008|Tronco_PalmeraAction.001
+  - first:
+      74: 6716113817143356872
+    second: Tronco_Palmera.008|Tronco_PalmeraAction.002
+  - first:
+      74: 3474198350701676621
+    second: Tronco_Palmera.008|Tronco_PalmeraAction.003
+  - first:
+      74: 3578333180535284187
+    second: Tronco_Palmera.008|Tronco_PalmeraAction.004
+  - first:
+      74: -1138132617731123071
+    second: Tronco_Palmera.008|Tronco_PalmeraAction.005
+  - first:
+      74: -6840087442442358236
+    second: Tronco_Palmera.008|Tronco_PalmeraAction.006
+  - first:
+      74: 7244005476655688331
+    second: Tronco_Palmera.008|Tronco_PalmeraAction.007
+  - first:
+      74: 1754509077739742066
+    second: Tronco_Palmera.008|Tronco_PalmeraAction.008
+  - first:
+      74: -2680777911144400719
+    second: Tronco_Palmera.008|Tronco_PalmeraAction.009
+  - first:
+      74: -7980386344739121391
+    second: Tronco_Palmera.008|Tronco_PalmeraAction.010
+  - first:
+      74: 3028009446212641470
+    second: Tronco_Palmera.008|Tronco_PalmeraAction.011
+  - first:
+      74: 2884150553650363051
+    second: Tronco_Palmera.008|Tronco_PalmeraAction.012
+  - first:
+      74: 2578678981396263933
+    second: Tronco_Palmera.009|flower10Action
+  - first:
+      74: 1458168113553819097
+    second: Tronco_Palmera.009|flower11Action
+  - first:
+      74: -5291309641578329370
+    second: Tronco_Palmera.009|flower4Action
+  - first:
+      74: 1859254838407881962
+    second: Tronco_Palmera.009|grass 17Action
+  - first:
+      74: -6033484777006256798
+    second: Tronco_Palmera.009|grass 17Action.022
+  - first:
+      74: 1214766736289805789
+    second: Tronco_Palmera.009|grass 17Action.023
+  - first:
+      74: 9019066619632564820
+    second: Tronco_Palmera.009|grass 17Action.024
+  - first:
+      74: 3863143605360508960
+    second: Tronco_Palmera.009|grass 17Action.025
+  - first:
+      74: -2620703404935546789
+    second: Tronco_Palmera.009|grass 17Action.026
+  - first:
+      74: 7395853312187939732
+    second: Tronco_Palmera.009|grass 17Action.027
+  - first:
+      74: -5735616600213178526
+    second: Tronco_Palmera.009|grass 17Action.028
+  - first:
+      74: 8938248175832433360
+    second: Tronco_Palmera.009|grass 17Action.029
+  - first:
+      74: -6279171733303308131
+    second: Tronco_Palmera.009|grass 17Action.030
+  - first:
+      74: 7283629200469128112
+    second: Tronco_Palmera.009|grass 17Action.031
+  - first:
+      74: 5288682743257731903
+    second: Tronco_Palmera.009|grass 17Action.032
+  - first:
+      74: 8194625729369712425
+    second: Tronco_Palmera.009|grass 17Action.033
+  - first:
+      74: -7023895617897483263
+    second: Tronco_Palmera.009|grass 17Action.034
+  - first:
+      74: -5786166712637558712
+    second: Tronco_Palmera.009|grass 17Action.035
+  - first:
+      74: -1378934667329681605
+    second: Tronco_Palmera.009|grass 17Action.036
+  - first:
+      74: 8392501135605710360
+    second: Tronco_Palmera.009|grass 17Action.037
+  - first:
+      74: -638134856862276309
+    second: Tronco_Palmera.009|grass 17Action.038
+  - first:
+      74: 316883971760986649
+    second: Tronco_Palmera.009|grass 17Action.039
+  - first:
+      74: 6787813315645406591
+    second: Tronco_Palmera.009|grass 17Action.040
+  - first:
+      74: -7561309069856733363
+    second: Tronco_Palmera.009|grass 17Action.041
+  - first:
+      74: -5477913750745896249
+    second: Tronco_Palmera.009|grass 17Action.042
+  - first:
+      74: -7877434959502070383
+    second: Tronco_Palmera.009|grass 17Action.043
+  - first:
+      74: -1143529171647510021
+    second: Tronco_Palmera.009|grass 17Action.044
+  - first:
+      74: -2404526952595044783
+    second: Tronco_Palmera.009|grass 17Action.045
+  - first:
+      74: -7390895849743940992
+    second: Tronco_Palmera.009|grass 17Action.046
+  - first:
+      74: 8052165483872365033
+    second: Tronco_Palmera.009|grass 17Action.047
+  - first:
+      74: -7483033931518579957
+    second: Tronco_Palmera.009|grass 17Action.048
+  - first:
+      74: -8052334456179270217
+    second: Tronco_Palmera.009|grass 17Action.049
+  - first:
+      74: -4302841010646047650
+    second: Tronco_Palmera.009|grass 17Action.050
+  - first:
+      74: -946277418376630315
+    second: Tronco_Palmera.009|grass 17Action.051
+  - first:
+      74: -301582408822411663
+    second: Tronco_Palmera.009|grass 17Action.052
+  - first:
+      74: -6302737280675411018
+    second: Tronco_Palmera.009|grass 17Action.053
+  - first:
+      74: -2254026152275757086
+    second: Tronco_Palmera.009|grass 17Action.054
+  - first:
+      74: 1677861624738249047
+    second: Tronco_Palmera.009|grass 17Action.055
+  - first:
+      74: -4896958754388673063
+    second: Tronco_Palmera.009|grass 17Action.056
+  - first:
+      74: -6070271882039483577
+    second: Tronco_Palmera.009|grass 17Action.057
+  - first:
+      74: 5400237328774978560
+    second: Tronco_Palmera.009|grass 17Action.058
+  - first:
+      74: -3722412806150206205
+    second: Tronco_Palmera.009|grass 17Action.059
+  - first:
+      74: -8127959746824763177
+    second: Tronco_Palmera.009|grass 17Action.060
+  - first:
+      74: 6713450148021760016
+    second: Tronco_Palmera.009|grass 17Action.061
+  - first:
+      74: 3483268029129938560
+    second: Tronco_Palmera.009|grass 17Action.062
+  - first:
+      74: 3712428896742948524
+    second: Tronco_Palmera.009|grass 17Action.063
+  - first:
+      74: -8889972278299716754
+    second: Tronco_Palmera.009|grass 17Action.064
+  - first:
+      74: 6758406117460646913
+    second: Tronco_Palmera.009|grass 17Action.065
+  - first:
+      74: 826683179627394945
+    second: Tronco_Palmera.009|grass 17Action.066
+  - first:
+      74: -7167424107205992195
+    second: Tronco_Palmera.009|grass 17Action.067
+  - first:
+      74: -3663790252183324419
+    second: Tronco_Palmera.009|grass 17Action.068
+  - first:
+      74: -8761360775943646384
+    second: Tronco_Palmera.009|grass 17Action.069
+  - first:
+      74: 7484453656354277134
+    second: Tronco_Palmera.009|grass 17Action.070
+  - first:
+      74: -7189230621583720496
+    second: Tronco_Palmera.009|grass 17Action.071
+  - first:
+      74: 2241163267920566295
+    second: Tronco_Palmera.009|grass 17Action.072
+  - first:
+      74: 497301048523336856
+    second: Tronco_Palmera.009|grass 17Action.073
+  - first:
+      74: 6475815351736965583
+    second: Tronco_Palmera.009|grass 17Action.074
+  - first:
+      74: -8222994442513987511
+    second: Tronco_Palmera.009|grass 17Action.075
+  - first:
+      74: -8256653528920049890
+    second: Tronco_Palmera.009|grass 17Action.076
+  - first:
+      74: -3235745846303288797
+    second: Tronco_Palmera.009|grass 17Action.077
+  - first:
+      74: -8429694722735868919
+    second: Tronco_Palmera.009|grass 17Action.078
+  - first:
+      74: -8850343177798710784
+    second: Tronco_Palmera.009|grass 17Action.079
+  - first:
+      74: 1159563039877586710
+    second: Tronco_Palmera.009|grass 17Action.080
+  - first:
+      74: -4217827187661278175
+    second: Tronco_Palmera.009|grass 17Action.081
+  - first:
+      74: -8453209366353428891
+    second: Tronco_Palmera.009|grass 17Action.082
+  - first:
+      74: -654387939410496912
+    second: Tronco_Palmera.009|grass 17Action.083
+  - first:
+      74: -318591372478182925
+    second: Tronco_Palmera.009|grass 17Action.084
+  - first:
+      74: -4805423230218586938
+    second: Tronco_Palmera.009|grass 17Action.085
+  - first:
+      74: -703794596920799262
+    second: Tronco_Palmera.009|grass 17Action.086
+  - first:
+      74: -1966354020557147025
+    second: Tronco_Palmera.009|grass 17Action.087
+  - first:
+      74: -6477860341187621209
+    second: Tronco_Palmera.009|grass 17Action.088
+  - first:
+      74: -392109372445159563
+    second: Tronco_Palmera.009|grass 17Action.089
+  - first:
+      74: 3762348797469345820
+    second: Tronco_Palmera.009|grass 17Action.090
+  - first:
+      74: 3502287415898679094
+    second: Tronco_Palmera.009|grass 17Action.091
+  - first:
+      74: 7706364932545616384
+    second: Tronco_Palmera.009|grass 17Action.092
+  - first:
+      74: -5444654351764183444
+    second: Tronco_Palmera.009|grass 17Action.093
+  - first:
+      74: 1120430111451949896
+    second: Tronco_Palmera.009|grass 17Action.094
+  - first:
+      74: 8426941586874622161
+    second: Tronco_Palmera.009|grass 17Action.095
+  - first:
+      74: 4227344256934273753
+    second: Tronco_Palmera.009|Tronco_PalmeraAction
+  - first:
+      74: -5034680492946581824
+    second: Tronco_Palmera.009|Tronco_PalmeraAction.001
+  - first:
+      74: 8474404995578564902
+    second: Tronco_Palmera.009|Tronco_PalmeraAction.002
+  - first:
+      74: -4591504660723548994
+    second: Tronco_Palmera.009|Tronco_PalmeraAction.003
+  - first:
+      74: 1101346781566335369
+    second: Tronco_Palmera.009|Tronco_PalmeraAction.004
+  - first:
+      74: 7449119182312095776
+    second: Tronco_Palmera.009|Tronco_PalmeraAction.005
+  - first:
+      74: -413705316185888223
+    second: Tronco_Palmera.009|Tronco_PalmeraAction.006
+  - first:
+      74: 4751543627717931861
+    second: Tronco_Palmera.009|Tronco_PalmeraAction.007
+  - first:
+      74: 8482208420392950023
+    second: Tronco_Palmera.009|Tronco_PalmeraAction.008
+  - first:
+      74: 606702800070790499
+    second: Tronco_Palmera.009|Tronco_PalmeraAction.009
+  - first:
+      74: 765850576660374917
+    second: Tronco_Palmera.009|Tronco_PalmeraAction.010
+  - first:
+      74: 426329898022655949
+    second: Tronco_Palmera.009|Tronco_PalmeraAction.011
+  - first:
+      74: 5133809692006519003
+    second: Tronco_Palmera.009|Tronco_PalmeraAction.012
+  - first:
+      74: -1089153925212951236
+    second: Tronco_Palmera.010|flower10Action
+  - first:
+      74: 2377790111336649472
+    second: Tronco_Palmera.010|flower11Action
+  - first:
+      74: -1209710327089195495
+    second: Tronco_Palmera.010|flower4Action
+  - first:
+      74: 8771803118771737817
+    second: Tronco_Palmera.010|grass 17Action
+  - first:
+      74: 2628566727858022120
+    second: Tronco_Palmera.010|grass 17Action.022
+  - first:
+      74: -5502321854247550616
+    second: Tronco_Palmera.010|grass 17Action.023
+  - first:
+      74: -8426237534521225991
+    second: Tronco_Palmera.010|grass 17Action.024
+  - first:
+      74: -7937396268951088399
+    second: Tronco_Palmera.010|grass 17Action.025
+  - first:
+      74: 3836667834523269847
+    second: Tronco_Palmera.010|grass 17Action.026
+  - first:
+      74: -2978132167609692133
+    second: Tronco_Palmera.010|grass 17Action.027
+  - first:
+      74: 1916923213603714192
+    second: Tronco_Palmera.010|grass 17Action.028
+  - first:
+      74: -7684596034869432460
+    second: Tronco_Palmera.010|grass 17Action.029
+  - first:
+      74: 2241463062306030856
+    second: Tronco_Palmera.010|grass 17Action.030
+  - first:
+      74: 2577732573664467833
+    second: Tronco_Palmera.010|grass 17Action.031
+  - first:
+      74: -3989021437855019717
+    second: Tronco_Palmera.010|grass 17Action.032
+  - first:
+      74: -3903471084193722519
+    second: Tronco_Palmera.010|grass 17Action.033
+  - first:
+      74: -2700176287174197256
+    second: Tronco_Palmera.010|grass 17Action.034
+  - first:
+      74: 2176281447484203437
+    second: Tronco_Palmera.010|grass 17Action.035
+  - first:
+      74: 2894065714021757629
+    second: Tronco_Palmera.010|grass 17Action.036
+  - first:
+      74: -3195074222829177676
+    second: Tronco_Palmera.010|grass 17Action.037
+  - first:
+      74: 2960786038184858543
+    second: Tronco_Palmera.010|grass 17Action.038
+  - first:
+      74: 2971479913932029303
+    second: Tronco_Palmera.010|grass 17Action.039
+  - first:
+      74: 1660362084458994219
+    second: Tronco_Palmera.010|grass 17Action.040
+  - first:
+      74: -4051514427284294897
+    second: Tronco_Palmera.010|grass 17Action.041
+  - first:
+      74: -146694623607616878
+    second: Tronco_Palmera.010|grass 17Action.042
+  - first:
+      74: -5400824552532802277
+    second: Tronco_Palmera.010|grass 17Action.043
+  - first:
+      74: 4462980355770518744
+    second: Tronco_Palmera.010|grass 17Action.044
+  - first:
+      74: 7041210294595909257
+    second: Tronco_Palmera.010|grass 17Action.045
+  - first:
+      74: 1319590646317241475
+    second: Tronco_Palmera.010|grass 17Action.046
+  - first:
+      74: -7189388072893110010
+    second: Tronco_Palmera.010|grass 17Action.047
+  - first:
+      74: -7228919082331807530
+    second: Tronco_Palmera.010|grass 17Action.048
+  - first:
+      74: -6919936753797817283
+    second: Tronco_Palmera.010|grass 17Action.049
+  - first:
+      74: -6144235252311202853
+    second: Tronco_Palmera.010|grass 17Action.050
+  - first:
+      74: -7583242088648847084
+    second: Tronco_Palmera.010|grass 17Action.051
+  - first:
+      74: -2798296229178753262
+    second: Tronco_Palmera.010|grass 17Action.052
+  - first:
+      74: 4480930908654168853
+    second: Tronco_Palmera.010|grass 17Action.053
+  - first:
+      74: -123453344689248398
+    second: Tronco_Palmera.010|grass 17Action.054
+  - first:
+      74: 5487408990606651395
+    second: Tronco_Palmera.010|grass 17Action.055
+  - first:
+      74: 1007619685564533401
+    second: Tronco_Palmera.010|grass 17Action.056
+  - first:
+      74: 3328630675589122700
+    second: Tronco_Palmera.010|grass 17Action.057
+  - first:
+      74: 9120478034781982759
+    second: Tronco_Palmera.010|grass 17Action.058
+  - first:
+      74: 1527046429179941582
+    second: Tronco_Palmera.010|grass 17Action.059
+  - first:
+      74: 8207624568479009314
+    second: Tronco_Palmera.010|grass 17Action.060
+  - first:
+      74: 766668693465280681
+    second: Tronco_Palmera.010|grass 17Action.061
+  - first:
+      74: -3492645632916891882
+    second: Tronco_Palmera.010|grass 17Action.062
+  - first:
+      74: 4958720314129373528
+    second: Tronco_Palmera.010|grass 17Action.063
+  - first:
+      74: 8744553822195212387
+    second: Tronco_Palmera.010|grass 17Action.064
+  - first:
+      74: -1041077477978494869
+    second: Tronco_Palmera.010|grass 17Action.065
+  - first:
+      74: -4470869801043315049
+    second: Tronco_Palmera.010|grass 17Action.066
+  - first:
+      74: -8921153285033289497
+    second: Tronco_Palmera.010|grass 17Action.067
+  - first:
+      74: 2755676870780426470
+    second: Tronco_Palmera.010|grass 17Action.068
+  - first:
+      74: -1463697970769741791
+    second: Tronco_Palmera.010|grass 17Action.069
+  - first:
+      74: 85691260863941161
+    second: Tronco_Palmera.010|grass 17Action.070
+  - first:
+      74: 8454305584922350048
+    second: Tronco_Palmera.010|grass 17Action.071
+  - first:
+      74: 412087379613551552
+    second: Tronco_Palmera.010|grass 17Action.072
+  - first:
+      74: 4934884631198480784
+    second: Tronco_Palmera.010|grass 17Action.073
+  - first:
+      74: 8119677750788231757
+    second: Tronco_Palmera.010|grass 17Action.074
+  - first:
+      74: -5897940696864573839
+    second: Tronco_Palmera.010|grass 17Action.075
+  - first:
+      74: 8460906171180528460
+    second: Tronco_Palmera.010|grass 17Action.076
+  - first:
+      74: 3766667039042888933
+    second: Tronco_Palmera.010|grass 17Action.077
+  - first:
+      74: 4769707271693446486
+    second: Tronco_Palmera.010|grass 17Action.078
+  - first:
+      74: 2936705864392173068
+    second: Tronco_Palmera.010|grass 17Action.079
+  - first:
+      74: 4247402180560823861
+    second: Tronco_Palmera.010|grass 17Action.080
+  - first:
+      74: 2260707708059859169
+    second: Tronco_Palmera.010|grass 17Action.081
+  - first:
+      74: -4527029778707471238
+    second: Tronco_Palmera.010|grass 17Action.082
+  - first:
+      74: 3160779427838331578
+    second: Tronco_Palmera.010|grass 17Action.083
+  - first:
+      74: -6810089272108628651
+    second: Tronco_Palmera.010|grass 17Action.084
+  - first:
+      74: 96359879465088496
+    second: Tronco_Palmera.010|grass 17Action.085
+  - first:
+      74: 2558377339760462805
+    second: Tronco_Palmera.010|grass 17Action.086
+  - first:
+      74: -7085375422849099159
+    second: Tronco_Palmera.010|grass 17Action.087
+  - first:
+      74: -7956004048954056001
+    second: Tronco_Palmera.010|grass 17Action.088
+  - first:
+      74: 5852897426683000161
+    second: Tronco_Palmera.010|grass 17Action.089
+  - first:
+      74: -4497663180807214489
+    second: Tronco_Palmera.010|grass 17Action.090
+  - first:
+      74: 8150227523693210315
+    second: Tronco_Palmera.010|grass 17Action.091
+  - first:
+      74: 4332180025141241088
+    second: Tronco_Palmera.010|grass 17Action.092
+  - first:
+      74: 7916868831611101816
+    second: Tronco_Palmera.010|grass 17Action.093
+  - first:
+      74: -7946876237883588804
+    second: Tronco_Palmera.010|grass 17Action.094
+  - first:
+      74: -8427888308493659585
+    second: Tronco_Palmera.010|grass 17Action.095
+  - first:
+      74: 7171748673730658211
+    second: Tronco_Palmera.010|Tronco_PalmeraAction
+  - first:
+      74: -267834093153137917
+    second: Tronco_Palmera.010|Tronco_PalmeraAction.001
+  - first:
+      74: 675302221988031795
+    second: Tronco_Palmera.010|Tronco_PalmeraAction.002
+  - first:
+      74: 6954667570473457394
+    second: Tronco_Palmera.010|Tronco_PalmeraAction.003
+  - first:
+      74: -5809064653609999121
+    second: Tronco_Palmera.010|Tronco_PalmeraAction.004
+  - first:
+      74: 1641064191099390173
+    second: Tronco_Palmera.010|Tronco_PalmeraAction.005
+  - first:
+      74: -4959787657410425676
+    second: Tronco_Palmera.010|Tronco_PalmeraAction.006
+  - first:
+      74: 89902497170102645
+    second: Tronco_Palmera.010|Tronco_PalmeraAction.007
+  - first:
+      74: 8483513226575121845
+    second: Tronco_Palmera.010|Tronco_PalmeraAction.008
+  - first:
+      74: -8407604673430614879
+    second: Tronco_Palmera.010|Tronco_PalmeraAction.009
+  - first:
+      74: -829075112976609133
+    second: Tronco_Palmera.010|Tronco_PalmeraAction.010
+  - first:
+      74: -7201150235763553525
+    second: Tronco_Palmera.010|Tronco_PalmeraAction.011
+  - first:
+      74: 2698765739981360768
+    second: Tronco_Palmera.010|Tronco_PalmeraAction.012
+  - first:
+      74: 4893239004840992018
+    second: Tronco_Palmera.011|flower10Action
+  - first:
+      74: 4644795357741298878
+    second: Tronco_Palmera.011|flower11Action
+  - first:
+      74: 6302463617835865881
+    second: Tronco_Palmera.011|flower4Action
+  - first:
+      74: 1951137468027419762
+    second: Tronco_Palmera.011|grass 17Action
+  - first:
+      74: -9084211520360109031
+    second: Tronco_Palmera.011|grass 17Action.022
+  - first:
+      74: 620063059027986630
+    second: Tronco_Palmera.011|grass 17Action.023
+  - first:
+      74: 6064840723086631991
+    second: Tronco_Palmera.011|grass 17Action.024
+  - first:
+      74: -8377550739480712736
+    second: Tronco_Palmera.011|grass 17Action.025
+  - first:
+      74: -4993952353797543068
+    second: Tronco_Palmera.011|grass 17Action.026
+  - first:
+      74: 8924585304764201329
+    second: Tronco_Palmera.011|grass 17Action.027
+  - first:
+      74: -8610590475783006996
+    second: Tronco_Palmera.011|grass 17Action.028
+  - first:
+      74: 4238975908641910621
+    second: Tronco_Palmera.011|grass 17Action.029
+  - first:
+      74: -7922565401295641343
+    second: Tronco_Palmera.011|grass 17Action.030
+  - first:
+      74: 7173007051468510880
+    second: Tronco_Palmera.011|grass 17Action.031
+  - first:
+      74: -881786014674844414
+    second: Tronco_Palmera.011|grass 17Action.032
+  - first:
+      74: -5320799807476267415
+    second: Tronco_Palmera.011|grass 17Action.033
+  - first:
+      74: 8457439848212515150
+    second: Tronco_Palmera.011|grass 17Action.034
+  - first:
+      74: -8982245515126009218
+    second: Tronco_Palmera.011|grass 17Action.035
+  - first:
+      74: 7797477229020651553
+    second: Tronco_Palmera.011|grass 17Action.036
+  - first:
+      74: 6075372865503162070
+    second: Tronco_Palmera.011|grass 17Action.037
+  - first:
+      74: 8346509863066334140
+    second: Tronco_Palmera.011|grass 17Action.038
+  - first:
+      74: 5091366710739777234
+    second: Tronco_Palmera.011|grass 17Action.039
+  - first:
+      74: -9190539051948116949
+    second: Tronco_Palmera.011|grass 17Action.040
+  - first:
+      74: 3767961513055615347
+    second: Tronco_Palmera.011|grass 17Action.041
+  - first:
+      74: -37965539865116853
+    second: Tronco_Palmera.011|grass 17Action.042
+  - first:
+      74: -9087780616867997973
+    second: Tronco_Palmera.011|grass 17Action.043
+  - first:
+      74: -7294273353231978971
+    second: Tronco_Palmera.011|grass 17Action.044
+  - first:
+      74: 3995818676958596126
+    second: Tronco_Palmera.011|grass 17Action.045
+  - first:
+      74: -5911205601351736415
+    second: Tronco_Palmera.011|grass 17Action.046
+  - first:
+      74: -1523748645043437910
+    second: Tronco_Palmera.011|grass 17Action.047
+  - first:
+      74: -3519433651449979803
+    second: Tronco_Palmera.011|grass 17Action.048
+  - first:
+      74: -3357092276671998583
+    second: Tronco_Palmera.011|grass 17Action.049
+  - first:
+      74: -2108286751233986851
+    second: Tronco_Palmera.011|grass 17Action.050
+  - first:
+      74: -8632061907323650260
+    second: Tronco_Palmera.011|grass 17Action.051
+  - first:
+      74: -7666557692174901009
+    second: Tronco_Palmera.011|grass 17Action.052
+  - first:
+      74: 2425990001076701197
+    second: Tronco_Palmera.011|grass 17Action.053
+  - first:
+      74: 7246052030434836546
+    second: Tronco_Palmera.011|grass 17Action.054
+  - first:
+      74: -548492138507662715
+    second: Tronco_Palmera.011|grass 17Action.055
+  - first:
+      74: 7711017706976849754
+    second: Tronco_Palmera.011|grass 17Action.056
+  - first:
+      74: 1979995040060141148
+    second: Tronco_Palmera.011|grass 17Action.057
+  - first:
+      74: -6075451736045349255
+    second: Tronco_Palmera.011|grass 17Action.058
+  - first:
+      74: -2311213480527951392
+    second: Tronco_Palmera.011|grass 17Action.059
+  - first:
+      74: -2631050820665978356
+    second: Tronco_Palmera.011|grass 17Action.060
+  - first:
+      74: -6568175781372555228
+    second: Tronco_Palmera.011|grass 17Action.061
+  - first:
+      74: -511575624849036567
+    second: Tronco_Palmera.011|grass 17Action.062
+  - first:
+      74: 2557873345295800651
+    second: Tronco_Palmera.011|grass 17Action.063
+  - first:
+      74: 6896786702916462224
+    second: Tronco_Palmera.011|grass 17Action.064
+  - first:
+      74: 3001485951547885701
+    second: Tronco_Palmera.011|grass 17Action.065
+  - first:
+      74: 426787800733178437
+    second: Tronco_Palmera.011|grass 17Action.066
+  - first:
+      74: 2122770062180458120
+    second: Tronco_Palmera.011|grass 17Action.067
+  - first:
+      74: -5904521761595763542
+    second: Tronco_Palmera.011|grass 17Action.068
+  - first:
+      74: 7147031739055534526
+    second: Tronco_Palmera.011|grass 17Action.069
+  - first:
+      74: -8244931123165397057
+    second: Tronco_Palmera.011|grass 17Action.070
+  - first:
+      74: -522323188953979361
+    second: Tronco_Palmera.011|grass 17Action.071
+  - first:
+      74: 7419756827813967841
+    second: Tronco_Palmera.011|grass 17Action.072
+  - first:
+      74: -9119409034078000643
+    second: Tronco_Palmera.011|grass 17Action.073
+  - first:
+      74: 8428183760443868484
+    second: Tronco_Palmera.011|grass 17Action.074
+  - first:
+      74: -9022152667857853333
+    second: Tronco_Palmera.011|grass 17Action.075
+  - first:
+      74: -1345269995944933845
+    second: Tronco_Palmera.011|grass 17Action.076
+  - first:
+      74: -9153493238897234957
+    second: Tronco_Palmera.011|grass 17Action.077
+  - first:
+      74: -142614291327143984
+    second: Tronco_Palmera.011|grass 17Action.078
+  - first:
+      74: 7728801229819000786
+    second: Tronco_Palmera.011|grass 17Action.079
+  - first:
+      74: -1622046353300086284
+    second: Tronco_Palmera.011|grass 17Action.080
+  - first:
+      74: 5862361405110243883
+    second: Tronco_Palmera.011|grass 17Action.081
+  - first:
+      74: 5695914215750339740
+    second: Tronco_Palmera.011|grass 17Action.082
+  - first:
+      74: 3472234144378223262
+    second: Tronco_Palmera.011|grass 17Action.083
+  - first:
+      74: 2474666905210474282
+    second: Tronco_Palmera.011|grass 17Action.084
+  - first:
+      74: -7000139451750889032
+    second: Tronco_Palmera.011|grass 17Action.085
+  - first:
+      74: -1988447298169956562
+    second: Tronco_Palmera.011|grass 17Action.086
+  - first:
+      74: -3980571575563555845
+    second: Tronco_Palmera.011|grass 17Action.087
+  - first:
+      74: 2380372260938988017
+    second: Tronco_Palmera.011|grass 17Action.088
+  - first:
+      74: 8725507499192300046
+    second: Tronco_Palmera.011|grass 17Action.089
+  - first:
+      74: 4284700171879098098
+    second: Tronco_Palmera.011|grass 17Action.090
+  - first:
+      74: 7263241176569493671
+    second: Tronco_Palmera.011|grass 17Action.091
+  - first:
+      74: -1467477796860626666
+    second: Tronco_Palmera.011|grass 17Action.092
+  - first:
+      74: -5232230685362830094
+    second: Tronco_Palmera.011|grass 17Action.093
+  - first:
+      74: 199227461050746977
+    second: Tronco_Palmera.011|grass 17Action.094
+  - first:
+      74: -1749556173780207464
+    second: Tronco_Palmera.011|grass 17Action.095
+  - first:
+      74: -6693364778277228269
+    second: Tronco_Palmera.011|Tronco_PalmeraAction
+  - first:
+      74: -895329166140891607
+    second: Tronco_Palmera.011|Tronco_PalmeraAction.001
+  - first:
+      74: -2080961417112946273
+    second: Tronco_Palmera.011|Tronco_PalmeraAction.002
+  - first:
+      74: 1479036862369704528
+    second: Tronco_Palmera.011|Tronco_PalmeraAction.003
+  - first:
+      74: -1036299890777172042
+    second: Tronco_Palmera.011|Tronco_PalmeraAction.004
+  - first:
+      74: 5645202608596392861
+    second: Tronco_Palmera.011|Tronco_PalmeraAction.005
+  - first:
+      74: -1208798897799896548
+    second: Tronco_Palmera.011|Tronco_PalmeraAction.006
+  - first:
+      74: -2469470384118973995
+    second: Tronco_Palmera.011|Tronco_PalmeraAction.007
+  - first:
+      74: -1524102351204285253
+    second: Tronco_Palmera.011|Tronco_PalmeraAction.008
+  - first:
+      74: -933212890198949972
+    second: Tronco_Palmera.011|Tronco_PalmeraAction.009
+  - first:
+      74: -6621454523225120644
+    second: Tronco_Palmera.011|Tronco_PalmeraAction.010
+  - first:
+      74: 6350180255134725669
+    second: Tronco_Palmera.011|Tronco_PalmeraAction.011
+  - first:
+      74: -287574558762213589
+    second: Tronco_Palmera.011|Tronco_PalmeraAction.012
+  - first:
+      74: 4323062915739893020
+    second: Tronco_Palmera.013|flower10Action
+  - first:
+      74: 5804555074329406727
+    second: Tronco_Palmera.013|flower11Action
+  - first:
+      74: 5132145906098638060
+    second: Tronco_Palmera.013|flower4Action
+  - first:
+      74: 9131264136056922423
+    second: Tronco_Palmera.013|grass 17Action
+  - first:
+      74: -3779564059943231632
+    second: Tronco_Palmera.013|grass 17Action.022
+  - first:
+      74: 8008078749664006111
+    second: Tronco_Palmera.013|grass 17Action.023
+  - first:
+      74: -7497187591237326336
+    second: Tronco_Palmera.013|grass 17Action.024
+  - first:
+      74: 5912570218343268866
+    second: Tronco_Palmera.013|grass 17Action.025
+  - first:
+      74: 2018983486478905741
+    second: Tronco_Palmera.013|grass 17Action.026
+  - first:
+      74: -4247060498584531380
+    second: Tronco_Palmera.013|grass 17Action.027
+  - first:
+      74: -8847680207448419716
+    second: Tronco_Palmera.013|grass 17Action.028
+  - first:
+      74: -3306531089566288967
+    second: Tronco_Palmera.013|grass 17Action.029
+  - first:
+      74: 6786741107305697609
+    second: Tronco_Palmera.013|grass 17Action.030
+  - first:
+      74: -8954072820401071387
+    second: Tronco_Palmera.013|grass 17Action.031
+  - first:
+      74: 8438940314715091604
+    second: Tronco_Palmera.013|grass 17Action.032
+  - first:
+      74: -1474541586084641546
+    second: Tronco_Palmera.013|grass 17Action.033
+  - first:
+      74: -2871383359805698225
+    second: Tronco_Palmera.013|grass 17Action.034
+  - first:
+      74: 7033502431319370602
+    second: Tronco_Palmera.013|grass 17Action.035
+  - first:
+      74: 2544386854929294425
+    second: Tronco_Palmera.013|grass 17Action.036
+  - first:
+      74: -2087470379980462015
+    second: Tronco_Palmera.013|grass 17Action.037
+  - first:
+      74: 1635825887301000113
+    second: Tronco_Palmera.013|grass 17Action.038
+  - first:
+      74: -3264204554484124775
+    second: Tronco_Palmera.013|grass 17Action.039
+  - first:
+      74: 8937123453538918262
+    second: Tronco_Palmera.013|grass 17Action.040
+  - first:
+      74: -3926812615703502946
+    second: Tronco_Palmera.013|grass 17Action.041
+  - first:
+      74: -1428029075681356632
+    second: Tronco_Palmera.013|grass 17Action.042
+  - first:
+      74: 2227546514535103687
+    second: Tronco_Palmera.013|grass 17Action.043
+  - first:
+      74: -1548745462050814394
+    second: Tronco_Palmera.013|grass 17Action.044
+  - first:
+      74: -8258698803049640263
+    second: Tronco_Palmera.013|grass 17Action.045
+  - first:
+      74: 2138975714014960687
+    second: Tronco_Palmera.013|grass 17Action.046
+  - first:
+      74: -3317949366450685260
+    second: Tronco_Palmera.013|grass 17Action.047
+  - first:
+      74: -5134368020047687063
+    second: Tronco_Palmera.013|grass 17Action.048
+  - first:
+      74: -2698251547614484847
+    second: Tronco_Palmera.013|grass 17Action.049
+  - first:
+      74: -6832040315055597143
+    second: Tronco_Palmera.013|grass 17Action.050
+  - first:
+      74: 8663278098321885913
+    second: Tronco_Palmera.013|grass 17Action.051
+  - first:
+      74: 2676096139276712579
+    second: Tronco_Palmera.013|grass 17Action.052
+  - first:
+      74: 9089196176099423515
+    second: Tronco_Palmera.013|grass 17Action.053
+  - first:
+      74: 2688248034600919956
+    second: Tronco_Palmera.013|grass 17Action.054
+  - first:
+      74: -9127412557754433316
+    second: Tronco_Palmera.013|grass 17Action.055
+  - first:
+      74: -8486531778425779376
+    second: Tronco_Palmera.013|grass 17Action.056
+  - first:
+      74: 3966672460559206546
+    second: Tronco_Palmera.013|grass 17Action.057
+  - first:
+      74: -1711840359894658257
+    second: Tronco_Palmera.013|grass 17Action.058
+  - first:
+      74: 7100647965698904250
+    second: Tronco_Palmera.013|grass 17Action.059
+  - first:
+      74: -6808037839166285035
+    second: Tronco_Palmera.013|grass 17Action.060
+  - first:
+      74: 6764482307518216058
+    second: Tronco_Palmera.013|grass 17Action.061
+  - first:
+      74: 3479633735585673265
+    second: Tronco_Palmera.013|grass 17Action.062
+  - first:
+      74: 8469417025676022775
+    second: Tronco_Palmera.013|grass 17Action.063
+  - first:
+      74: 7962252012140501228
+    second: Tronco_Palmera.013|grass 17Action.064
+  - first:
+      74: 2727859020538541770
+    second: Tronco_Palmera.013|grass 17Action.065
+  - first:
+      74: -3370905205602576758
+    second: Tronco_Palmera.013|grass 17Action.066
+  - first:
+      74: -786024947495702497
+    second: Tronco_Palmera.013|grass 17Action.067
+  - first:
+      74: 4803761310538682081
+    second: Tronco_Palmera.013|grass 17Action.068
+  - first:
+      74: -716835479727620885
+    second: Tronco_Palmera.013|grass 17Action.069
+  - first:
+      74: -314587757336787294
+    second: Tronco_Palmera.013|grass 17Action.070
+  - first:
+      74: 532229624356873466
+    second: Tronco_Palmera.013|grass 17Action.071
+  - first:
+      74: 3631247985202608928
+    second: Tronco_Palmera.013|grass 17Action.072
+  - first:
+      74: 2264217495352510410
+    second: Tronco_Palmera.013|grass 17Action.073
+  - first:
+      74: -3848240093741967378
+    second: Tronco_Palmera.013|grass 17Action.074
+  - first:
+      74: 383183829576545344
+    second: Tronco_Palmera.013|grass 17Action.075
+  - first:
+      74: -1469273772854966625
+    second: Tronco_Palmera.013|grass 17Action.076
+  - first:
+      74: 7431555335867365638
+    second: Tronco_Palmera.013|grass 17Action.077
+  - first:
+      74: 3665409556359305819
+    second: Tronco_Palmera.013|grass 17Action.078
+  - first:
+      74: 7285336431187240441
+    second: Tronco_Palmera.013|grass 17Action.079
+  - first:
+      74: -8489787593411991737
+    second: Tronco_Palmera.013|grass 17Action.080
+  - first:
+      74: 567268800362828178
+    second: Tronco_Palmera.013|grass 17Action.081
+  - first:
+      74: 140415145610037941
+    second: Tronco_Palmera.013|grass 17Action.082
+  - first:
+      74: 4332096050779748506
+    second: Tronco_Palmera.013|grass 17Action.083
+  - first:
+      74: -158347179141572910
+    second: Tronco_Palmera.013|grass 17Action.084
+  - first:
+      74: 8766911313591531155
+    second: Tronco_Palmera.013|grass 17Action.085
+  - first:
+      74: -2129906169224657882
+    second: Tronco_Palmera.013|grass 17Action.086
+  - first:
+      74: 5247621748503171558
+    second: Tronco_Palmera.013|grass 17Action.087
+  - first:
+      74: -3476633599624557188
+    second: Tronco_Palmera.013|grass 17Action.088
+  - first:
+      74: 7027109880071459906
+    second: Tronco_Palmera.013|grass 17Action.089
+  - first:
+      74: -2498522856127817250
+    second: Tronco_Palmera.013|grass 17Action.090
+  - first:
+      74: 1274443786071190728
+    second: Tronco_Palmera.013|grass 17Action.091
+  - first:
+      74: 234468032163991055
+    second: Tronco_Palmera.013|grass 17Action.092
+  - first:
+      74: -1482643222295675344
+    second: Tronco_Palmera.013|grass 17Action.093
+  - first:
+      74: 1453472817988703327
+    second: Tronco_Palmera.013|grass 17Action.094
+  - first:
+      74: 7026585360868377042
+    second: Tronco_Palmera.013|grass 17Action.095
+  - first:
+      74: 101585763069939115
+    second: Tronco_Palmera.013|Tronco_PalmeraAction
+  - first:
+      74: 2281312957444893581
+    second: Tronco_Palmera.013|Tronco_PalmeraAction.001
+  - first:
+      74: -4332015488607095654
+    second: Tronco_Palmera.013|Tronco_PalmeraAction.002
+  - first:
+      74: -8450747637780050171
+    second: Tronco_Palmera.013|Tronco_PalmeraAction.003
+  - first:
+      74: -5294897129852117719
+    second: Tronco_Palmera.013|Tronco_PalmeraAction.004
+  - first:
+      74: 3727995026643743133
+    second: Tronco_Palmera.013|Tronco_PalmeraAction.005
+  - first:
+      74: 3564878269785892034
+    second: Tronco_Palmera.013|Tronco_PalmeraAction.006
+  - first:
+      74: -5706688241409360848
+    second: Tronco_Palmera.013|Tronco_PalmeraAction.007
+  - first:
+      74: 6981584642655953878
+    second: Tronco_Palmera.013|Tronco_PalmeraAction.008
+  - first:
+      74: 7170941681819448902
+    second: Tronco_Palmera.013|Tronco_PalmeraAction.009
+  - first:
+      74: 191885229454723822
+    second: Tronco_Palmera.013|Tronco_PalmeraAction.010
+  - first:
+      74: 6211933291487954470
+    second: Tronco_Palmera.013|Tronco_PalmeraAction.011
+  - first:
+      74: -1234317247963870312
+    second: Tronco_Palmera.013|Tronco_PalmeraAction.012
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
