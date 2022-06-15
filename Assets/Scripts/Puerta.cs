@@ -22,11 +22,11 @@ public class Puerta : MonoBehaviour
     void Update()
     {
         
-        if(){
+        
             Invoke("desbloqueo", 4f);
             Invoke("reaparece", 6f);
             Debug.Log("Update");
-        }
+        
     }
     public void desbloqueo(){
         efecto1.Play();

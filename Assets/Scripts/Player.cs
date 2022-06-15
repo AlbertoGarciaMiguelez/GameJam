@@ -34,9 +34,10 @@ public class Player : MonoBehaviour
 
     private GameObject player;
 
-    void Awake()
-    {
-        player = GameObject.FindWithTag("Player");
+    public static Player instance;
+
+    void Awake(){
+        instance=this;
     }
     // Start is called before the first frame update
     void Start() {
@@ -112,6 +113,9 @@ public class Player : MonoBehaviour
                  rb.AddExplosionForce(explosionForce, transform.position, explosionRadius, 1, ForceMode.VelocityChange);
              }
         }
+    }
+    public Vector3 position(){
+        return transform.position;
     }
 
     private void ApplyForce() {
