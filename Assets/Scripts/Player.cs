@@ -102,6 +102,16 @@ public class Player : MonoBehaviour
             }
         } 
         monedas.text= puntos.ToString();
+
+        if(Input.GetButtonDown("Interaction")) {
+            if(holdingObject == null) {
+                PickObject();
+            } else {
+                DropObject();
+            }
+
+        }
+
     }
 
 
@@ -128,6 +138,22 @@ public class Player : MonoBehaviour
         }
     }
 
+    private void PickObject() {
+        RaycastHit hit;
+        if(Physics.Raycast(transform.position + transform.up * 0.7f, transform.forward, out hit, 1)) {
+            if(hit.transform.gameObject.CompareTag("Pickable")) {
+                Debug.Log("Player.PickObject Tengo algo Pickable delante de mi");
+                //Cogemos el objeto
+                holdingObject = hit.transform.gameObject;
+                holdingObject.transform.parent = transform;
+                holdingObject.transform.localPosition = new Vector3(0, 0.6f, 0.65f);
+                holdingObject.transform.localEulerAngles = Vector3.zero;
+                holdingObject.GetComponent<Rigidbody>().isKinematic = true;
+            }
+        }
+        
+    }
+    
     private void DropObject() {
         holdingObject.transform.parent = null;
         holdingObject.GetComponent<Rigidbody>().isKinematic = false;

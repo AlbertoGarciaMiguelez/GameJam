@@ -10,6 +10,7 @@ public class Puerta : MonoBehaviour
     public ParticleSystem efecto4;
     public ParticleSystem efecto5;
     public bool bo=true;
+    private int datos;
 
     public Player p;
     // Start is called before the first frame update
@@ -21,12 +22,14 @@ public class Puerta : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
-        
-            Invoke("desbloqueo", 4f);
-            Invoke("reaparece", 6f);
+        datos= Player.instance.datos();
+        if(bo=true && datos==1){
+            bo = false;
+            desbloqueo();
+            Invoke("reaparece", 5f);
+            Invoke("stop", 5f);
             Debug.Log("Update");
-        
+        }
     }
     public void desbloqueo(){
         efecto1.Play();
@@ -34,11 +37,18 @@ public class Puerta : MonoBehaviour
         efecto3.Play();
         efecto4.Play();
         efecto5.Play();
-        this.gameObject.SetActive(true);
         Debug.Log("Desbloqueo");
     }
     public void reaparece(){
         this.gameObject.SetActive(false);
         Debug.Log("reaparece");
+    }
+    public void stop(){
+        efecto1.Stop();
+        efecto2.Stop();
+        efecto3.Stop();
+        efecto4.Stop();
+        efecto5.Stop();
+        Debug.Log("Desbloqueo");
     }
 }
