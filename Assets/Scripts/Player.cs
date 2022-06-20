@@ -36,6 +36,8 @@ public class Player : MonoBehaviour
 
     public static Player instance;
 
+    private bool power=false;
+
     void Awake(){
         instance=this;
     }
@@ -111,6 +113,10 @@ public class Player : MonoBehaviour
             }
 
         }
+        if(power){
+            transform.localScale = new Vector3(0.18f,0.18f,0.18f);
+            power=false;
+        }
 
     }
 
@@ -180,7 +186,26 @@ public class Player : MonoBehaviour
             puntos++;
             Destroy(other.gameObject, 0.1f);
         }
+        else if(other.gameObject.CompareTag("Power")){
+            power=true;
+            Destroy(other.gameObject, 0.1f);
+        }
+        else if(other.gameObject.CompareTag("Platform")) {
+            transform.parent = other.transform;
+        }
     }
+    
+    public void OnTriggerExit(Collider other) {
+        if(other.gameObject.CompareTag("Platform")) {
+            transform.parent = null;
+
+            Speedometer speedometer = other.GetComponent<Speedometer>();
+            if(speedometer != null) {
+                playerVelocity += speedometer.velocity;
+            }
+        }
+    }
+
     public int datos(){
         return puntos;
     }
