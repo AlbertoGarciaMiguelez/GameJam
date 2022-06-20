@@ -2,10 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Power : MonoBehaviour
+public class Portal : MonoBehaviour
 {
-    private Vector3 rotacion = new Vector3(0,30,0);
-    public GameObject objeto;
+    private Vector3 rotacion = new Vector3(0,60,0);
     // Start is called before the first frame update
     void Start()
     {

@@ -35,6 +35,10 @@ public class Player : MonoBehaviour
     private GameObject player;
 
     public static Player instance;
+    
+    public Transform Target;
+
+    public Transform spawn;
 
     private bool power=false;
 
@@ -120,7 +124,13 @@ public class Player : MonoBehaviour
 
     }
 
-
+    public bool powerOn(){
+        if(power){
+            return true;
+        }else{
+            return false;
+        }
+    }
     private void ApplyExplosion() {
         Collider[] affectedObjects = Physics.OverlapSphere(transform.position, explosionRadius);
         foreach(Collider c in affectedObjects) {
@@ -193,6 +203,12 @@ public class Player : MonoBehaviour
         else if(other.gameObject.CompareTag("Platform")) {
             transform.parent = other.transform;
         }
+        else if(other.gameObject.CompareTag("Portal")) {
+            transform.position = Target.transform.position;
+        }
+        else{
+            Debug.Log("nORMAL");
+        }
     }
     
     public void OnTriggerExit(Collider other) {
@@ -208,6 +224,9 @@ public class Player : MonoBehaviour
 
     public int datos(){
         return puntos;
+    }
+    public void Respawn(){
+        transform.position = spawn.transform.position;
     }
 }
 

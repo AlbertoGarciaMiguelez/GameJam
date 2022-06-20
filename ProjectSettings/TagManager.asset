@@ -11,6 +11,8 @@ TagManager:
   - Power
   - Platform
   - Agua
+  - Target
+  - Portal
   layers:
   - Default
   - TransparentFX
