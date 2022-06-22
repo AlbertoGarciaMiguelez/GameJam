@@ -62,6 +62,7 @@ public class Player : MonoBehaviour
 
     // Update is called once per frame
     void Update() {
+        Debug.Log(puntos);
         //Gestión de Inputs
         if(puntos==5){
             FinNivel();
@@ -216,7 +217,7 @@ public class Player : MonoBehaviour
         if(other.gameObject.CompareTag("Moneda")) {
             puntos++;
             Destroy(other.gameObject, 0.1f);
-            if(puntos==4){
+            if(puntos==3){
                 transform.position = Target3.transform.position;
             }
         }
