@@ -13,6 +13,9 @@ TagManager:
   - Agua
   - Target
   - Portal
+  - Portal2
+  - Point
+  - Vuelta
   layers:
   - Default
   - TransparentFX

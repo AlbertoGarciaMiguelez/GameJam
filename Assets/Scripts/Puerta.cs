@@ -11,8 +11,6 @@ public class Puerta : MonoBehaviour
     public ParticleSystem efecto5;
     public bool bo=true;
     private int datos;
-
-    public Player p;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,7 +21,7 @@ public class Puerta : MonoBehaviour
     void Update()
     {
         datos= Player.instance.datos();
-        if(bo=true && datos==1){
+        if(bo=true && datos==4){
             bo = false;
             desbloqueo();
             Invoke("reaparece", 5f);

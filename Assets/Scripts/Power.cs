@@ -5,7 +5,6 @@ using UnityEngine;
 public class Power : MonoBehaviour
 {
     private Vector3 rotacion = new Vector3(0,30,0);
-    public GameObject objeto;
     // Start is called before the first frame update
     void Start()
     {

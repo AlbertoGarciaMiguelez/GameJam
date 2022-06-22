@@ -2,14 +2,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
+
     [Header("Movimiento horizontal")]
     public float forwardSpeed= 5f;    
 
     [Header("Movimiento de rotación")]
-    public float mouseRotationSensitivity = 10;
+    public float mouseRotationSensitivity = 2;
     private float rotationSpeed = 200f;
 
     [Header("Salto")]
@@ -33,14 +35,20 @@ public class Player : MonoBehaviour
     public Text monedas;
 
     private GameObject player;
+    public GameObject antorcha;
+    public Transform posicionAntorcha;
 
     public static Player instance;
     
     public Transform Target;
+    public Transform Target2;
+    public Transform Target3;
 
     public Transform spawn;
 
     private bool power=false;
+    private bool point=false;
+    private bool objeto=false;
 
     void Awake(){
         instance=this;
@@ -55,13 +63,15 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update() {
         //Gestión de Inputs
-
+        if(puntos==5){
+            FinNivel();
+        }
         Vector3 movementInput = Input.GetAxisRaw("Vertical") * Vector3.forward;
         Vector2 mouseInput = Vector2.zero;
         mouseInput.x = Input.GetAxisRaw("Mouse X");
 
         movementInput = transform.TransformDirection(movementInput);
-
+        
         //Gestión de salto
         if(Input.GetButtonDown("Jump") && charController.isGrounded) {
             //Establecemos la velocidad de salto necesaria para alcanzar la
@@ -131,6 +141,13 @@ public class Player : MonoBehaviour
             return false;
         }
     }
+    public bool pointOn(){
+        if(point){
+            return true;
+        }else{
+            return false;
+        }
+    }
     private void ApplyExplosion() {
         Collider[] affectedObjects = Physics.OverlapSphere(transform.position, explosionRadius);
         foreach(Collider c in affectedObjects) {
@@ -156,13 +173,16 @@ public class Player : MonoBehaviour
 
     private void PickObject() {
         RaycastHit hit;
-        if(Physics.Raycast(transform.position + transform.up * 0.7f, transform.forward, out hit, 1)) {
+        if (Physics.SphereCast(transform.position, charController.height/20, transform.forward, out hit, 1))
+         {
+            Debug.Log("Dentro2");
             if(hit.transform.gameObject.CompareTag("Pickable")) {
                 Debug.Log("Player.PickObject Tengo algo Pickable delante de mi");
                 //Cogemos el objeto
+                objeto=true;
                 holdingObject = hit.transform.gameObject;
                 holdingObject.transform.parent = transform;
-                holdingObject.transform.localPosition = new Vector3(0, 0.6f, 0.65f);
+                holdingObject.transform.localPosition = new Vector3(0f, 2f, 1f);
                 holdingObject.transform.localEulerAngles = Vector3.zero;
                 holdingObject.GetComponent<Rigidbody>().isKinematic = true;
             }
@@ -174,6 +194,7 @@ public class Player : MonoBehaviour
         holdingObject.transform.parent = null;
         holdingObject.GetComponent<Rigidbody>().isKinematic = false;
         holdingObject = null;
+        objeto=false;
     }
 
     void SetState(PlayerState newState) {
@@ -195,6 +216,9 @@ public class Player : MonoBehaviour
         if(other.gameObject.CompareTag("Moneda")) {
             puntos++;
             Destroy(other.gameObject, 0.1f);
+            if(puntos==4){
+                transform.position = Target3.transform.position;
+            }
         }
         else if(other.gameObject.CompareTag("Power")){
             power=true;
@@ -206,8 +230,17 @@ public class Player : MonoBehaviour
         else if(other.gameObject.CompareTag("Portal")) {
             transform.position = Target.transform.position;
         }
+        else if(other.gameObject.CompareTag("Point")) {
+            point=true;
+        }
+        else if(other.gameObject.CompareTag("Portal2")) {
+            transform.position = Target2.transform.position;
+        }
+        else if(other.gameObject.CompareTag("Vuelta")) {
+            transform.position = Target.transform.position;
+        }
         else{
-            Debug.Log("nORMAL");
+            Debug.Log("Normal");
         }
     }
     
@@ -227,6 +260,12 @@ public class Player : MonoBehaviour
     }
     public void Respawn(){
         transform.position = spawn.transform.position;
+        if(!objeto){
+            antorcha.transform.position=posicionAntorcha.transform.position;
+        }
+    }
+    public void FinNivel(){
+        SceneManager.LoadScene("Fin");
     }
 }
 
